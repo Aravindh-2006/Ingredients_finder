@@ -38,6 +38,8 @@ Install dependencies:
 
 pip install transformers sentencepiece streamlit
 
+<img width<img width="1752" height="174" alt="Screenshot 2025-09-04 105432" src="https://github.com/user-attachments/assets/47301894-a184-497b-8896-8d5fa10b7f3c" />
+="1085" height="189" alt="Screenshot 2025-09-04 105409" src="https://github.com/user-attachments/assets/e68dcfd6-90e4-4233-8121-7017d5b3cbc2" />
 
 Run the Python script:
 
